@@ -8,9 +8,6 @@
 
 A smart assistant that helps our risk officers understand and "talk" to complex risk management documents.
 
-> **License: view only, all rights reserved.** You may read this repository on GitHub. Copying, cloning, running, modifying, redistributing or using it for any other purpose is not permitted without written permission. See [LICENSE](LICENSE).
-
-
 ## 🌟 Core Technologies & Features
 
 1. **Agentic Graph (LangGraph)**
@@ -274,6 +271,4 @@ If granted a one-month roadmap, I would evolve this prototype into a complete En
 
 ## 📄 License
 
-Copyright (c) 2026 Emma Yu (GitHub: @emmacyu). All rights reserved.
-
-This project is **view only**: it may be read on GitHub, but it may not be copied, cloned, downloaded, run, modified, redistributed, used in other work, or used to train or evaluate AI models without prior written permission. Third-party materials (the OSFI guideline used for testing, the skills in `.agents/skills/`, and libraries) remain under their own terms. See [LICENSE](LICENSE) for the full terms.
+See [LICENSE](LICENSE) for the full terms.
