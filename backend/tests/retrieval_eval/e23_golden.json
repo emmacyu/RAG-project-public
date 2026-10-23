@@ -1,0 +1,345 @@
+{
+  "document": "tests/data/guideline_e23_model_risk_management_2027.pdf",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/1893",
+  "notes": "Pages are the printed page numbers (1-based). A question counts as retrieved when a returned chunk contains the evidence phrase after whitespace, quote and case normalisation. Questions are paraphrased so they do not simply repeat the evidence wording.",
+  "questions": [
+    {
+      "id": "q01",
+      "question": "When do the new model risk expectations start to apply?",
+      "page": 1,
+      "evidence": "Effective date May 1, 2027"
+    },
+    {
+      "id": "q02",
+      "question": "Which institutions fall under the scope of this guideline?",
+      "page": 3,
+      "evidence": "applies to all federally regulated financial institutions"
+    },
+    {
+      "id": "q03",
+      "question": "Is the guideline applied the same way to every institution regardless of size?",
+      "page": 3,
+      "evidence": "proportional to the institution's"
+    },
+    {
+      "id": "q04",
+      "question": "What parts make up a model according to the definitions?",
+      "page": 3,
+      "evidence": "data input component that may also include relevant assumptions"
+    },
+    {
+      "id": "q05",
+      "question": "How is model risk defined?",
+      "page": 4,
+      "evidence": "risk of adverse financial impact"
+    },
+    {
+      "id": "q06",
+      "question": "What risk is left over after controls and validation are in place?",
+      "page": 4,
+      "evidence": "risk that remains after institutions have implemented controls"
+    },
+    {
+      "id": "q07",
+      "question": "What is meant by a model risk rating?",
+      "page": 4,
+      "evidence": "categorical model risk tier"
+    },
+    {
+      "id": "q08",
+      "question": "Which stages does a model go through from creation to retirement?",
+      "page": 4,
+      "evidence": "model review, model deployment, model monitoring, and model decommission"
+    },
+    {
+      "id": "q09",
+      "question": "What is the model inventory used for?",
+      "page": 5,
+      "evidence": "system of record for storing key information related to models"
+    },
+    {
+      "id": "q10",
+      "question": "Who decides whether a model can be used in the institution?",
+      "page": 5,
+      "evidence": "authority to approve the use of a model"
+    },
+    {
+      "id": "q11",
+      "question": "What results should effective model risk management achieve?",
+      "page": 6,
+      "evidence": "The following are the expected outcomes of effective MRM"
+    },
+    {
+      "id": "q12",
+      "question": "What are senior management's responsibilities for model risk?",
+      "page": 7,
+      "evidence": "ensuring appropriate MRM personnel are in place with the requisite skills"
+    },
+    {
+      "id": "q13",
+      "question": "Should lawyers or ethicists be part of the model risk team?",
+      "page": 7,
+      "evidence": "including legal or ethics professionals as appropriate"
+    },
+    {
+      "id": "q14",
+      "question": "Which other OSFI guideline applies to models bought from outside vendors?",
+      "page": 8,
+      "evidence": "Guideline B-10 Third-Party Risk Management"
+    },
+    {
+      "id": "q15",
+      "question": "What should be done with models that no longer serve their purpose?",
+      "page": 8,
+      "evidence": "no longer fit for purpose should be modified, replaced, or decommissioned"
+    },
+    {
+      "id": "q16",
+      "question": "How should an institution find out which models it uses?",
+      "page": 9,
+      "evidence": "surveying the institution to identify new models"
+    },
+    {
+      "id": "q17",
+      "question": "Do retired models need to stay in the inventory?",
+      "page": 9,
+      "evidence": "inclusive of decommissioned models for a period the institution considers reasonable"
+    },
+    {
+      "id": "q18",
+      "question": "Which numerical factors feed into the risk rating?",
+      "page": 10,
+      "evidence": "importance, size and growth of the portfolio"
+    },
+    {
+      "id": "q19",
+      "question": "Which non-numerical factors should the risk rating consider?",
+      "page": 10,
+      "evidence": "model complexity or level of autonomy, reliability of data inputs"
+    },
+    {
+      "id": "q20",
+      "question": "When should a model's risk rating be revisited?",
+      "page": 10,
+      "evidence": "when a trigger event occurs"
+    },
+    {
+      "id": "q21",
+      "question": "Can low-risk models skip the full governance requirements?",
+      "page": 10,
+      "evidence": "exempts such models from the full model lifecycle governance requirements"
+    },
+    {
+      "id": "q22",
+      "question": "What if a model's risk exceeds what the institution is willing to accept?",
+      "page": 11,
+      "evidence": "establish appropriate remediation actions"
+    },
+    {
+      "id": "q23",
+      "question": "Which governance requirements depend on the inherent risk rating?",
+      "page": 11,
+      "evidence": "frequency, intensity, and scope of model review"
+    },
+    {
+      "id": "q24",
+      "question": "Give examples of controls for managing residual model risk.",
+      "page": 12,
+      "evidence": "allocating capital reserves to cover potential losses"
+    },
+    {
+      "id": "q25",
+      "question": "What extra considerations apply when justifying an AI or machine learning model?",
+      "page": 13,
+      "evidence": "level of transparency and explainability required"
+    },
+    {
+      "id": "q26",
+      "question": "What qualities should data used to build a model have?",
+      "page": 14,
+      "evidence": "having documented lineage and provenance"
+    },
+    {
+      "id": "q27",
+      "question": "What data quality checks are institutions expected to run?",
+      "page": 14,
+      "evidence": "outlier detection, missing value analysis"
+    },
+    {
+      "id": "q28",
+      "question": "What should model documentation standards cover?",
+      "page": 15,
+      "evidence": "the role of expert judgment"
+    },
+    {
+      "id": "q29",
+      "question": "Which events should prompt a model to be reviewed again?",
+      "page": 16,
+      "evidence": "breaches of model performance"
+    },
+    {
+      "id": "q30",
+      "question": "Can a model with known weaknesses still be approved?",
+      "page": 17,
+      "evidence": "may be approved despite identified weaknesses or limitations"
+    },
+    {
+      "id": "q31",
+      "question": "Which OSFI guidelines are referenced for cyber and operational risk before deployment?",
+      "page": 18,
+      "evidence": "see OSFI Guidelines B-13 and E-21"
+    },
+    {
+      "id": "q32",
+      "question": "What monitoring challenges are specific to AI models?",
+      "page": 18,
+      "evidence": "autonomous re-parametrization"
+    },
+    {
+      "id": "q33",
+      "question": "Why might a model be retired?",
+      "page": 19,
+      "evidence": "repeated monitoring breaches, excessive overrides"
+    },
+    {
+      "id": "q34",
+      "question": "What is the minimum information to record for every model?",
+      "page": 19,
+      "evidence": "model origin (for example, internally developed or vendor)"
+    },
+    {
+      "id": "q35",
+      "question": "What additional details are tracked for inventory models?",
+      "page": 20,
+      "evidence": "date of model's most recent model review"
+    },
+    {
+      "id": "q36",
+      "question": "Which definition of artificial intelligence does the guideline rely on?",
+      "page": 21,
+      "evidence": "machine-based system that, for explicit or implicit objectives"
+    }
+  ],
+  "negatives_notes": "Questions whose answer is NOT in the guideline. Most are on-topic 'hard negatives' that share vocabulary with the document; the last two are off-topic. Retrieval should return nothing.",
+  "negatives": [
+    {
+      "id": "n01",
+      "question": "What is the maximum fine for breaching Guideline E-23?"
+    },
+    {
+      "id": "n02",
+      "question": "How many days does an institution have to notify OSFI after a model failure?"
+    },
+    {
+      "id": "n03",
+      "question": "What minimum AUC must a credit scoring model reach before approval?"
+    },
+    {
+      "id": "n04",
+      "question": "Which Basel III capital ratio must be held against model risk?"
+    },
+    {
+      "id": "n05",
+      "question": "Does the guideline require models to be hosted on servers located in Canada?"
+    },
+    {
+      "id": "n06",
+      "question": "What is the deadline for filing the annual model risk report with OSFI?"
+    },
+    {
+      "id": "n07",
+      "question": "What are the requirements for climate scenario analysis?"
+    },
+    {
+      "id": "n08",
+      "question": "How should institutions price mortgage default insurance?"
+    },
+    {
+      "id": "n09",
+      "question": "What does the guideline say about cryptocurrency custody?"
+    },
+    {
+      "id": "n10",
+      "question": "Who is the current Superintendent of Financial Institutions?"
+    },
+    {
+      "id": "n11",
+      "question": "Which programming languages are approved for building models?"
+    },
+    {
+      "id": "n12",
+      "question": "What is OSFI's email address for submitting the model inventory?"
+    },
+    {
+      "id": "n13",
+      "question": "What will the weather be like in Toronto tomorrow?"
+    },
+    {
+      "id": "n14",
+      "question": "Can you recommend a good Python web framework?"
+    }
+  ],
+  "multi_notes": "Questions whose answer is spread over several sections. Each evidence phrase sits in a different place; the metric is the share of evidence phrases present in the returned chunks.",
+  "multi": [
+    {
+      "id": "m01",
+      "question": "How should AI and machine learning model risk be managed across the model lifecycle?",
+      "evidence": [
+        "particularly for novel technologies, like AI",
+        "the extensive use of advanced AI/ML techniques should have correspondingly mature governance",
+        "level of transparency and explainability required",
+        "autonomous re-parametrization"
+      ]
+    },
+    {
+      "id": "m02",
+      "question": "What role does the model risk rating play throughout model governance?",
+      "evidence": [
+        "assigning a provisional rating for new models",
+        "Each model should be assigned a model risk rating",
+        "frequency, intensity, and scope of model review",
+        "Affirming the assigned model risk rating and residual risk assessment"
+      ]
+    },
+    {
+      "id": "m03",
+      "question": "What are the responsibilities of the model owner, developer, reviewer and approver?",
+      "evidence": [
+        "responsible for coordinating model development, implementation and deployment",
+        "responsible for designing, developing, evaluating, and documenting",
+        "responsible for reviewing the model's conceptual soundness",
+        "authority to approve the use of a model"
+      ]
+    },
+    {
+      "id": "m04",
+      "question": "How do data requirements apply across model development, deployment and monitoring?",
+      "evidence": [
+        "accurate and fit-for-use",
+        "consistency between data used to develop the model and the production dataset",
+        "significant data changes",
+        "model usage, input data"
+      ]
+    },
+    {
+      "id": "m05",
+      "question": "What must an institution do when a model is retired?",
+      "evidence": [
+        "Retaining the retired model and documentation for a set period",
+        "inclusive of decommissioned models for a period the institution considers reasonable",
+        "no longer fit for purpose should be modified, replaced, or decommissioned"
+      ]
+    },
+    {
+      "id": "m06",
+      "question": "How should third-party and vendor models be governed?",
+      "evidence": [
+        "including vendor and third-party models",
+        "Externally developed models should be assessed for model risk ratings on a standalone basis",
+        "reviewing third-party models and platforms or sub-components",
+        "Determining what additional actions are needed for decommissions of any third-party models",
+        "Guideline B-10 Third-Party Risk Management"
+      ]
+    }
+  ]
+}

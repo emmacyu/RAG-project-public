@@ -1,0 +1,72 @@
+Proprietary License - View Only - All Rights Reserved
+
+Copyright (c) 2026 Emma Yu (GitHub: @emmacyu). All rights reserved.
+
+This repository, including its source code, documentation, prompts, evaluation data that the
+author created, diagrams, slides, and other materials (together, the "Materials"), is the
+exclusive property of the copyright holder.
+
+1. Permission to view only
+
+   You may view the Materials in a web browser through the website of the platform on which
+   the copyright holder has published them (for example, github.com), for the sole purpose of
+   reading them. No other permission is granted.
+
+2. Prohibited uses
+
+   Without the prior written permission of the copyright holder, you may not, in whole or in part:
+
+   a. copy, download, clone, save, print, screenshot or otherwise reproduce the Materials,
+      except for the temporary copies your browser makes automatically while you view them;
+   b. modify, translate, adapt, or create derivative works based on the Materials;
+   c. distribute, publish, share, transmit, sublicense, sell, rent or otherwise make the
+      Materials available to anyone;
+   d. run, compile, deploy, host or execute the Materials, or incorporate them into any other
+      software, product, service, document or presentation;
+   e. use the Materials, or any idea, design or code taken from them, for any commercial,
+      non-commercial, academic, internal business or other purpose;
+   f. use the Materials to train, fine-tune, evaluate or benchmark any machine learning or
+      artificial intelligence model, or include them in any dataset;
+   g. remove, alter or obscure this notice or any copyright notice in the Materials.
+
+3. No other rights
+
+   No license or right is granted by implication, estoppel or otherwise, including any patent or
+   trademark right. Publishing the Materials does not place them in the public domain and does
+   not grant any open-source license.
+
+4. Hosting platform terms
+
+   If the Materials are published on a platform whose terms of service require users to receive
+   certain rights in published content (for example, GitHub's right to view and fork public
+   repositories within its service), those rights are granted only to the minimum extent such
+   terms require and only for use within that platform. They do not permit any use described
+   in section 2.
+
+5. Third-party materials
+
+   This license covers only material created by the copyright holder. The following are owned
+   by others and remain subject to their own terms, which this license neither grants nor
+   restricts:
+   - Guideline E-23 - Model Risk Management (2027) (backend/tests/data/), published by the
+     Office of the Superintendent of Financial Institutions (OSFI);
+   - the skills under .agents/skills/, which carry their own licenses;
+   - third-party libraries, frameworks and models referenced by the project (for example in
+     requirements.txt and package.json), and third-party product names and interfaces shown in
+     screenshots.
+
+6. Termination
+
+   Any use outside section 1 is unauthorized and automatically ends any permission you had
+   under this license. The copyright holder reserves all rights and remedies available by law.
+
+7. No warranty and no liability
+
+   THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO
+   EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING
+   FROM OR IN CONNECTION WITH THE MATERIALS OR THEIR USE.
+
+8. Permission requests
+
+   To request any use not permitted above, contact the copyright holder through the GitHub
+   profile @emmacyu. Permission is valid only if given in writing.

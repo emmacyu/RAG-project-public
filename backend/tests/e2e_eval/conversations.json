@@ -1,0 +1,15 @@
+{
+  "notes": "Two-turn conversations: the second turn uses a pronoun or omits the subject, so it only works if the follow-up is rewritten with the earlier turn as context. The evidence and page refer to the second turn.",
+  "conversations": [
+    {"id": "c01", "turns": ["What is a model inventory?", "How long should decommissioned models stay in it?"],
+     "page": 9, "evidence": "inclusive of decommissioned models for a period the institution considers reasonable"},
+    {"id": "c02", "turns": ["What is a model risk rating?", "When should it be revisited?"],
+     "page": 10, "evidence": "when a trigger event occurs"},
+    {"id": "c03", "turns": ["What does the model approver do?", "Can they approve a model that has known weaknesses?"],
+     "page": 17, "evidence": "may be approved despite identified weaknesses or limitations"},
+    {"id": "c04", "turns": ["What does model monitoring cover?", "What should be in place if the model fails outright?"],
+     "page": 18, "evidence": "contingency plans for model unavailability"},
+    {"id": "c05", "turns": ["What does the guideline expect from data used to develop models?", "Which quality checks should be run on it?"],
+     "page": 14, "evidence": "outlier detection, missing value analysis"}
+  ]
+}

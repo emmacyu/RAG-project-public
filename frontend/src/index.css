@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-blue: #005eb8;
+  --color-brand-yellow: #ffd200;
+  --font-inter: "Inter", sans-serif;
+  --font-outfit: "Outfit", sans-serif;
+}
+
+@layer base {
+  body {
+    /* Clean corporate light background */
+    background-color: #f9fafb; /* Tailwind gray-50 */
+  }
+  h1, h2, h3, h4, h5, h6 {
+    /* Use Outfit font for clean readable headers */
+    font-family: var(--font-outfit);
+  }
+}
+
+@layer utilities {
+  .glass-panel {
+    /* Clean white elevated panel */
+    @apply bg-white border border-gray-200 shadow-[0_8px_30px_rgb(0,0,0,0.06)];
+  }
+  .glass-input {
+    /* Standard light UI input controls */
+    @apply bg-white border border-gray-300 focus:border-brand-blue focus:ring-2 focus:ring-brand-blue/20 outline-none text-gray-900 placeholder-gray-400 transition-all shadow-sm;
+  }
+}
